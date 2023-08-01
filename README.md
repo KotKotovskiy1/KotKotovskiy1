@@ -61,6 +61,10 @@ SoapUI, Chrome DevTools.
 
 Ссылка на проект: https://kotovskiy.atlassian.net/l/cp/7kyJgzrS
 
+Логин: dollar25@inbox.ru
+
+Пароль: Papat159951
+
 Выводы (итоги):
 
 После проведения тестирования API новых багов не обнаружил.
